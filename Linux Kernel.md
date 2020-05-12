@@ -432,7 +432,7 @@ By default, GDB doesn't know where the source code is located. You can tell gdb 
 
 Our source location was **/root/make\_kernel/linux-5.4.36**. After you use the **dir** command, you can print out some of the code around where you are broken (break point) using the "l" command. For example,
 
-![GDB Code dump](media/GDB_code_dump.jpg){width="4.6722222222222225in" height="4.145833333333333in"}
+![GDB Code dump](media/GDB_Code_dump.jpg){width="4.6722222222222225in" height="4.145833333333333in"}
 
 **GDB Code Listing**
 
