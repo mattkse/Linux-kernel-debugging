@@ -420,7 +420,7 @@ On the Debugging VM, use the copy of the compiled kernel "vmlinux" from the shar
 
 **Test of gdb**
 
-The above shows setting a breakpoint (b) and continuing (c) verifying all is working.
+The above shows setting a breakpoint (b) and continuing (c) verifying all is working.  Note that a conncetion is made from the debugging VM to the target VM over the serial port by entering "target remote /dev/ttyS0" from the gdb command line on the debugging VM.
 
 ### 5.1 Viewing the Source Code in GDB
 
