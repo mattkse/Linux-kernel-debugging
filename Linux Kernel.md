@@ -178,7 +178,7 @@ The next step is to compile the linux kernel from source. This can take several 
 Next step is to make install modules:
 
 ```
-# make modules\_install
+# make modules_install
 ```
 
 The final step creates an ELF file called "vmlinux" which is our compiled kernel with all its symbols:
